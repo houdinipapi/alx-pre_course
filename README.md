@@ -1,2 +1,2 @@
 My first readme
-My firts edition on the Git UI
+My first edition on the Git UI
